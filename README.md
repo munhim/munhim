@@ -57,10 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=munhim&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true&border_radius=15" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhim&layout=compact&theme=radical&hide_title=true&border_radius=15" />
-</p>
-
 
 
 
