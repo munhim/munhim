@@ -1,57 +1,57 @@
-# 👋 Hi, I'm Abdul Munhim Hussain
+# Abdul Munhim Hussain
 
-🎓 Computer Science Student @ FAST NUCES  
-💻 Focused on Software Development, AI, and System Design  
-🌱 Currently exploring Kubernetes and containerized deployments  
-📍 Islamabad, Pakistan
+Welcome to my GitHub! I'm a developer passionate about building clean, efficient, and user-focused software. With a strong foundation in both **frontend development** and **software engineering**, I enjoy working on full-stack projects and exploring the intersection of AI with real-world applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Technical Skills
 
 **Languages:**  
-`C++`, `Python`, `Java`, `C#`, `SQL`
+C++, Python, Java, C#, SQL
 
-**Web & UI:**  
-`HTML`, `CSS`, `JavaFX`, `WinForms`
+**Frontend:**  
+HTML, CSS, JavaFX, WinForms
 
-**Databases:**  
-`MongoDB`, `MySQL`, `Oracle`
+**Backend & Databases:**  
+Express.js, MySQL, PostgreSQL, MongoDB
 
-**Tools & DevOps:**  
-`Git`, `GitHub`, `Docker`, `Packet Tracer`
+**Tools & Platforms:**  
+Git, GitHub, Docker, Packet Tracer
 
 ---
 
-## 📂 Projects
+## 📂 Highlighted Projects
 
-- **Cure Track** – Java + JavaFX medical management app  
+- **Cure Track** – Patient record management system (Java, JavaFX)  
 - **Flex Gym Management System** – WinForms + C# + MySQL  
 - **Parking Management System** – HTML/CSS + Express.js  
-- **Campus Network Simulation** – Cisco Packet Tracer (NAT, DHCP, Routing)  
-- **Pacman** – C++ multithreaded implementation with semaphores  
-- **Interplanetary File System** – C++ (B-Trees, Routing Tables, Linked Lists)  
-- **Classroom Manager** – C++ OOP project  
+- **University Network Simulation** – Packet Tracer project (NAT, DHCP)  
+- **Pacman Game** – C++ with multithreading and semaphores  
+- **IPFS Simulation** – C++ using B-Trees, Queues, Routing logic  
+- **Classroom Manager** – OOP-based desktop software (C++)
 
 ---
 
 ## 📜 Certifications
 
-- Python for Everybody – University of Michigan  
+- Python for Everybody – University of Michigan (Coursera)  
 - Prompt Engineering for ChatGPT – Great Learning  
-- Data Analysis using Excel – Coursera  
 - Python Programming (Beginner to Advanced) – Udemy  
-- Build a Portfolio Website using HTML/CSS – Coursera  
+- Data Analysis using Excel – Coursera  
+- Build a Portfolio Website – Coursera
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Munhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munhim&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=munhim&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-## 🌐 Connect
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmunhimhussain/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/munhim)
+- **Email:** [abdulmunhim2002@gmail.com](mailto:abdulmunhim2002@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/abdulmunhimhussain](https://www.linkedin.com/in/abdulmunhimhussain)  
+- **GitHub:** [github.com/munhim](https://github.com/munhim)
