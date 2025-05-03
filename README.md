@@ -47,7 +47,13 @@
 
 ## 📈 GitHub Stats
 
-![Munhim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=munhim&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munhim&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhim&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
