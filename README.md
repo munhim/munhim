@@ -46,8 +46,23 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munhim&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munhim&theme=radical" alt="Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=munhim&theme=radical" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munhim&show_icons=true&theme=radical&count_private=true&hide=prs&hide_title=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhim&layout=compact&theme=radical&hide_title=true&border_radius=15" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhim&layout=compact&theme=tokyonight" />
