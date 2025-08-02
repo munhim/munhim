@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Munhim Hussain
 
-🎓 Computer Science Student @ FAST NUCES  
-💻 Focused on Software Development, AI, and System Design  
+🎓 Final year Computer Science Student @ FAST NUCES  
+💻 Focused on Software Development, AI, and Web Development  
 🌱 Currently exploring containerized deployments and scalable architectures  
 📍 Islamabad, Pakistan
 
@@ -13,13 +13,13 @@
 `C++`, `Python`, `Java`, `C#`, `SQL`
 
 **Web & UI:**  
-`HTML`, `CSS`, `JavaFX`, `WinForms`
+`HTML`, `CSS`, `Javascript`, `Express JS`, `JavaFX`, `WinForms`
 
 **Databases:**  
 `MongoDB`, `MySQL`, `PostgreSQL`
 
 **Tools & DevOps:**  
-`Git`, `GitHub`, `Docker`, `Packet Tracer`
+`Git`, `GitHub`, `Docker`, `Packet Tracer`, `Ansible`, `Terraform`, `ArgoCD`, `Docker`, `Kubernetes`,
 
 ---
 
@@ -32,6 +32,8 @@
 - **Pacman** – C++ multithreaded implementation with semaphores  
 - **Interplanetary File System** – C++ (B-Trees, Routing Tables, Linked Lists)  
 - **Classroom Manager** – C++ OOP project  
+- **Task Manager CI/CD Deployment** – Docker + GitHub Actions + Kubernetes  
+  CI/CD pipeline for a task manager app using GitHub Actions for automation, Docker for containerization, Terraform for infrastructure provisioning, and Kubernetes for deployment. Also integrated Ansible and ArgoCD for seamless GitOps delivery.
 
 ---
 
@@ -45,11 +47,9 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munhim&theme=github_dark" />
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munhim&theme=github_dark" />
@@ -59,9 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munhim&layout=compact&theme=tokyonight" />
 </p>
-
-
-
 
 ---
 
