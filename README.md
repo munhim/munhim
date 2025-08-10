@@ -41,7 +41,7 @@
   Trained a two-layer LSTM model to predict driving controls (steering, throttle, brake, etc.) in TORCS. Used weighted MSE loss, dropout, and early stopping for smooth, stable driving behavior.
   
 - **ROI Prediction Model for Real Estate Investment** – Using XGBoost to predict return-on-investment based on scraped property data from Zameen and OLX.
-
+---
 
 ## 📜 Certifications
 
