@@ -39,15 +39,9 @@
   CI/CD pipeline for a task manager app using GitHub Actions for automation, Docker for containerization, Terraform for infrastructure provisioning, and Kubernetes for deployment. Also integrated Ansible and ArgoCD for seamless GitOps delivery.  
 - **Autonomous TORCS Driver** – PyTorch + LSTM  
   Trained a two-layer LSTM model to predict driving controls (steering, throttle, brake, etc.) in TORCS. Used weighted MSE loss, dropout, and early stopping for smooth, stable driving behavior.
+  
+- **ROI Prediction Model for Real Estate Investment** – Using XGBoost to predict return-on-investment based on scraped property data from Zameen and OLX.
 
----
-
-## 🤖 AI & ML Projects
-
-- **Autonomous TORCS Driver** – Built an LSTM-based self-driving agent for TORCS using PyTorch, predicting continuous driving actions based on past telemetry sequences. Included advanced techniques like loss regularization and early stopping.  
-- **[Coming Soon] ROI Prediction Model for Real Estate Investment** – Using XGBoost to predict return-on-investment based on scraped property data from Zameen and OLX.
-
----
 
 ## 📜 Certifications
 
