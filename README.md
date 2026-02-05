@@ -23,7 +23,6 @@
 
 ## 📂 Projects
 
-### 🤖 AI & Machine Learning
 - **CLIP-Prefix-Captioning** – PyTorch implementation of ClipCap. Uses a CLIP visual encoder and GPT-2 decoder with a mapping network to generate descriptive captions for images.
 - **Autonomous TORCS Driver** – PyTorch + LSTM. Trained a two-layer LSTM model to predict driving controls in TORCS using weighted MSE loss and early stopping.
 - **ROI Prediction Model** – Real estate ROI prediction using XGBoost, trained on data scraped from Zameen and OLX.
