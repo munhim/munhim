@@ -23,7 +23,7 @@
 
 ## 📂 Projects
 
--**GitCortex (FYP)** – AI-powered multi-agent system that automates GitHub code review. A central orchestrator runs five agents per pull request: Style Checker (linting and quality scoring), Security Scanner (vulnerabilities and fixes), Bug Detector (logic and runtime issues), Code Commentor (inline documentation), and Issue Classifier (categorization and prioritization). Webhook-driven analysis, structured PR comments, human feedback, and a dashboard for workflows, logs, and metrics.
+- **GitCortex (FYP)** – AI-powered multi-agent system that automates GitHub code review. A central orchestrator runs five agents per pull request: Style Checker (linting and quality scoring), Security Scanner (vulnerabilities and fixes), Bug Detector (logic and runtime issues), Code Commentor (inline documentation), and Issue Classifier (categorization and prioritization). Webhook-driven analysis, structured PR comments, human feedback, and a dashboard for workflows, logs, and metrics.
 - **CLIP-Prefix-Captioning** – PyTorch implementation of ClipCap. Uses a CLIP visual encoder and GPT-2 decoder with a mapping network to generate descriptive captions for images.
 - **RAG Document Chatbot** – Full-stack web app using ChromaDB, MiniLM embeddings, and Groq LLM. Upload PDF, DOC, or text files and answer questions via retrieval-augmented generation with multi-session chat history.
 - **Autonomous TORCS Driver** – PyTorch + LSTM. Trained a two-layer LSTM model to predict driving controls in TORCS using weighted MSE loss and early stopping.
