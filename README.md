@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Munhim Hussain
 
-🎓 Final year Computer Science Student @ FAST NUCES  
+🎓 Computer Science Graduate @ FAST NUCES  
 💻 Focused on Software Development, AI, and Web Development  
 🌱 Currently exploring containerized deployments and scalable architectures  
 📍 Islamabad, Pakistan
